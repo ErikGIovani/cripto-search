@@ -10,7 +10,8 @@
 
 <div align="center">
    <h2>Tecnologías</h2>
-   <img width="30%" src="./README/web.png" alt="#" >
+   <img width="30%" src="https://skillicons.dev/icons?i=react,css,nodejs&theme=dark">
+   <p>React, CSS3 y Node JS</p>
 </div>
 
 <div align="center">
